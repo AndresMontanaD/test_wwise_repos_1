@@ -1,1 +1,2 @@
 se creo a proposito un segundo archivo de texto para esta prueba
+una segunda frase para el archivo secundario
