@@ -1,3 +1,3 @@
 esta es la primera frase para la prueba del nuevo archivo en la carpeta de repositorios
 
-esta es la segunda frase para las pruebas
+esta es la segunda frase para las pruebas y esta es la tercera frase para prueba de ignorar archivos
